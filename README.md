@@ -1,6 +1,6 @@
 # site-receitas
 
-<imggit src="./assets/img/logo.jpg" alt="Fruta e Fruto"/>
+<img src="./assets/img/logo.jpg" alt="Fruta e Fruto"/>
 
 Desenvolvimento de um site de receitas chamado Fruta &amp; Fruto aplicando arquitetura CSS.
 
