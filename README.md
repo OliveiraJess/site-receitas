@@ -1,10 +1,7 @@
 # site-receitas
-Site de receitas Fruta &amp; Fruto
 
-Pontos do desenvolvimento:
-* cabeçalho;
-* banner;
-* seção Sobre;
-* listagem de receitas;
-* seção *Quem somos, com as pessoas envolvidas na empresa;
-* rodapé com informações de contatos.
+<img class="logo" src="./assets/img/logo.jpg" alt="Fruta e Fruto"/>
+
+Desenvolvimento de um site de receitas chamado Fruta &amp; Fruto aplicando arquitetura CSS.
+
+Nesse projeto será desenvolvido o cabeçalho, banner, seção Sobre e Quem Somos, listagem de receitas e rodapé com informações de contatos.
